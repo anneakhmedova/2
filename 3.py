@@ -43,4 +43,4 @@ elif r=='9':
     a=g9
 else:
     a=g10
-print(b)
+print(a)
